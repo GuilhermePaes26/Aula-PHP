@@ -34,3 +34,5 @@ insert into carros values (0001, "Ford", "Gt40"),
 (0006, "General Motors", "Celta"),
 (0007, "Toyota", "Corolla"),
 (0008, "Toyota", "  Hilux");
+
+Ou vá no arquivo carros.slq do projeto, e jogue ele no importar do seu banco de dados SQL.
