@@ -15,10 +15,6 @@
         $base = "carros";
         $conexao = mysqli_connect($host, $user, $pass, $base);
 
-        if (!$conexao) {
-            die("Erro de conexão: " . mysqli_connect_error());
-        }
-
         $resultadoQueryMySQL = mysqli_query($conexao, "SELECT * FROM carros");
 
         echo "<table><tr><th>Código</th><th>Nome</th><th>Carro</th></tr>";

@@ -42,5 +42,7 @@
     <a href="./ver.php" rel="noopener noreferrer">Ver dados</a>
     <a href="./cadastrar.php" rel="noopener noreferrer">Cadastrar Dados</a>
     <a href="./consulta.php" rel="noopener noreferrer">Consulta por id</a>
+    <a href="./update.php" rel="noopener noreferrer">Alterar dados</a>
+    <a href="./delete.php" rel="noopener noreferrer">Deletar dados</a>
 </body>
 </html>
